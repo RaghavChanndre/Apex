@@ -1,0 +1,38 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+.container5 {
+  display: flex;
+  text-align: center;
+  background-color: #fff;
+  height: 20px;
+ border-bottom: 1rem;
+ 
+}
+.h1 {
+  margin: 0px, 0px, 8px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 35px;
+ 
+}
+p {
+  margin-top: 15px !important;
+  color: #9198a7;
+  font-size: 14px;
+  margin-bottom: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: block;
+  position: relative;
+  bottom: 40px;
+  box-sizing: border-box;
+  position: static;
+  bottom: 50px;
+  
+}

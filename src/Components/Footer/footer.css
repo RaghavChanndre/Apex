@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    background-color: rgb(76, 139, 211);
+}
+p{
+    color: black;
+}
+
+.button{
+    color: #0e0d0e;
+}
+.footer{
+  text-align: center;
+}
+.ul{
+    color: black;
+}

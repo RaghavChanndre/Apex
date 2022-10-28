@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   body,html{
+       overflow-x: hidden;
+   }
+   .navbar{
+       background-color: white;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       
+   }
+   
+   .navbar-brand{
+       padding: 10px;
+       margin-left: 10px;
+      }
+   .navbar-nav{
+       padding: 25px;
+       margin-left: auto;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+  button.btn{
+       background-color: midnightblue;
+       padding-left: 10px;
+       padding-right: 10px;
+       border-radius: 30px;
+       color:white;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+
+   button.btn:hover{
+      transform: scale(1.1) rotateX(1deg) rotateZ(4deg) ;
+     }
+   
+   a.nav-link{
+       margin-left: 10px;
+       margin-right: 10px;
+   }
+   a.nav-link:hover{
+       border-bottom: 1px solid black;
+       color: black;
+   }
