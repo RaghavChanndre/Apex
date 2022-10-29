@@ -16,7 +16,7 @@ export default function Footer() {
   <div className="row">
   
  <ul>
-<li><u>Buy Domains</u></li>
+<li><u>Buys Domains</u></li>
 <li >Past Sales</li>
 <li >About Us</li>
 <li>FAQs</li>
